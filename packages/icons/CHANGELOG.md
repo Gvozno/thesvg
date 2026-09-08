@@ -1,5 +1,11 @@
 # @thesvg/icons
 
+## 3.3.3
+
+### Patch Changes
+
+- Add Mir brand icons
+
 ## 3.3.2
 
 ### Patch Changes
