@@ -271,8 +271,7 @@
     "hex": "111111",
     "categories": [
       "Security",
-      "Software",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/2fauth/default.svg",
@@ -1060,8 +1059,7 @@
     "hex": "8142E3",
     "categories": [
       "Automation",
-      "DevTool",
-      "Software"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/activepieces/default.svg",
@@ -2929,7 +2927,7 @@
     "hex": "E6522C",
     "categories": [
       "Monitoring",
-      "DevOps"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/alertmanager/default.svg"
@@ -4475,8 +4473,9 @@
     ],
     "hex": "1B1B1E",
     "categories": [
+      "LLM Tools",
       "AI",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/anythingllm/default.svg",
@@ -5518,9 +5517,8 @@
     ],
     "hex": "8427E0",
     "categories": [
-      "Productivity",
-      "Software",
-      "Management"
+      "Notes & Docs",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/appflowy/default.svg",
@@ -5818,8 +5816,7 @@
     "hex": "148C80",
     "categories": [
       "Communication",
-      "Automation",
-      "DevTool"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/apprise-api/default.svg",
@@ -7593,7 +7590,7 @@
     "categories": [
       "Automation",
       "Media",
-      "DevOps"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/autobrr/default.svg"
@@ -37578,9 +37575,8 @@
     ],
     "hex": "37ABE9",
     "categories": [
-      "Productivity",
-      "Software",
-      "Management"
+      "Health",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/baby-buddy/default.svg"
@@ -38869,8 +38865,8 @@
     "aliases": [],
     "hex": "6366F1",
     "categories": [
-      "Productivity",
-      "Software"
+      "Developer Utilities",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/bentopdf/default.svg"
@@ -38957,7 +38953,7 @@
     "categories": [
       "Monitoring",
       "Dashboard",
-      "DevOps"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/beszel/default.svg"
@@ -41683,9 +41679,8 @@
     ],
     "hex": "000000",
     "categories": [
-      "DevTool",
-      "Automation",
-      "DevOps"
+      "Developer Utilities",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/browserless/default.svg",
@@ -42498,8 +42493,7 @@
     "hex": "111827",
     "categories": [
       "Database",
-      "DevOps",
-      "DevTool"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/bytebase/default.svg",
@@ -42537,8 +42531,8 @@
     "aliases": [],
     "hex": "2563EB",
     "categories": [
-      "DevTool",
-      "Productivity"
+      "Developer Utilities",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/bytestash/default.svg"
@@ -43602,9 +43596,9 @@
     "aliases": [],
     "hex": "009486",
     "categories": [
+      "Media Server",
       "Media",
-      "Community",
-      "Software"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/castopod/default.svg",
@@ -44415,8 +44409,8 @@
     "hex": "13715B",
     "categories": [
       "Monitoring",
-      "DevOps",
-      "Dashboard"
+      "Dashboard",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/checkmate/default.svg"
@@ -44618,9 +44612,10 @@
     ],
     "hex": "3B82F6",
     "categories": [
+      "File Sharing",
       "Storage",
-      "Software",
-      "Media"
+      "Media",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/chibisafe/default.svg"
@@ -46001,9 +45996,9 @@
     "aliases": [],
     "hex": "056FEE",
     "categories": [
+      "File Sharing",
       "Storage",
-      "Software",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/cloudreve/default.svg",
@@ -46400,9 +46395,8 @@
     ],
     "hex": "111111",
     "categories": [
-      "Software",
-      "Management",
-      "DevTool"
+      "Low-Code",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/cockpit-cms/default.svg",
@@ -48451,9 +48445,9 @@
     ],
     "hex": "84CC16",
     "categories": [
-      "DevTool",
+      "Developer Utilities",
       "Media",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/convertx/default.svg"
@@ -48621,9 +48615,10 @@
     ],
     "hex": "F59E0B",
     "categories": [
+      "File Sharing",
       "Storage",
-      "Software",
-      "Networking"
+      "Networking",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/copyparty/default.svg"
@@ -49680,9 +49675,9 @@
     "aliases": [],
     "hex": "000000",
     "categories": [
+      "File Sharing",
       "Security",
-      "Software",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/cryptgeon/default.svg"
@@ -50207,9 +50202,9 @@
     ],
     "hex": "000000",
     "categories": [
-      "DevTool",
+      "Developer Utilities",
       "Security",
-      "Software"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/cyberchef/default.svg"
@@ -50830,9 +50825,10 @@
     ],
     "hex": "155DFC",
     "categories": [
+      "Backup",
       "Database",
-      "DevOps",
-      "Storage"
+      "Storage",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/databasus/default.svg",
@@ -53547,9 +53543,8 @@
     "aliases": [],
     "hex": "000000",
     "categories": [
-      "Productivity",
-      "Software",
-      "Management"
+      "Notes & Docs",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/docmost/default.svg"
@@ -53702,8 +53697,7 @@
     "hex": "E97A42",
     "categories": [
       "Productivity",
-      "Software",
-      "Management"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/docuseal/default.svg",
@@ -53883,9 +53877,8 @@
     ],
     "hex": "D32F2F",
     "categories": [
-      "Productivity",
-      "Software",
-      "Management"
+      "Notes & Docs",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/dokuwiki/default.svg"
@@ -57195,9 +57188,8 @@
     ],
     "hex": "8AA0C2",
     "categories": [
-      "Software",
-      "Management",
-      "Productivity"
+      "Helpdesk & CRM",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/espocrm/default.svg",
@@ -57327,9 +57319,9 @@
     ],
     "hex": "FF9800",
     "categories": [
-      "Productivity",
-      "Software",
-      "Communication"
+      "Notes & Docs",
+      "Communication",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/etherpad/default.svg",
@@ -59240,9 +59232,8 @@
     "aliases": [],
     "hex": "FBB139",
     "categories": [
-      "Productivity",
-      "Software",
-      "Community"
+      "Community",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/fider/default.svg"
@@ -59443,9 +59434,9 @@
     ],
     "hex": "2979FF",
     "categories": [
+      "File Sharing",
       "Storage",
-      "Software",
-      "Management"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/file-browser/default.svg",
@@ -60167,9 +60158,9 @@
     ],
     "hex": "4D4D4D",
     "categories": [
-      "DevTool",
+      "Developer Utilities",
       "Networking",
-      "Automation"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/flaresolverr/default.svg"
@@ -60265,9 +60256,8 @@
     ],
     "hex": "F8A66B",
     "categories": [
-      "Productivity",
-      "Software",
-      "Management"
+      "Notes & Docs",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/flatnotes/default.svg"
@@ -60552,9 +60542,9 @@
     ],
     "hex": "4F46E5",
     "categories": [
+      "LLM Tools",
       "AI",
-      "Automation",
-      "DevTool"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/flowise/default.svg",
@@ -60913,8 +60903,8 @@
     "aliases": [],
     "hex": "0058CC",
     "categories": [
-      "Productivity",
-      "Management"
+      "Project Management",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/focalboard/default.svg"
@@ -61902,9 +61892,9 @@
     ],
     "hex": "3276D5",
     "categories": [
+      "Helpdesk & CRM",
       "Communication",
-      "Software",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/freescout/default.svg",
@@ -68353,8 +68343,7 @@
     "hex": "57CB6A",
     "categories": [
       "Monitoring",
-      "DevTool",
-      "DevOps"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/glances/default.svg",
@@ -68568,8 +68557,7 @@
     "hex": "5B2D8E",
     "categories": [
       "Monitoring",
-      "DevTool",
-      "DevOps"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/glitchtip/default.svg",
@@ -68732,9 +68720,8 @@
     ],
     "hex": "00A5F3",
     "categories": [
-      "Management",
-      "Software",
-      "Productivity"
+      "Helpdesk & CRM",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/glpi/default.svg",
@@ -69255,8 +69242,8 @@
     "aliases": [],
     "hex": "E0543A",
     "categories": [
-      "DevTool",
-      "DevOps"
+      "Git & CI",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/gogs/default.svg",
@@ -71118,8 +71105,7 @@
     "hex": "71CAEE",
     "categories": [
       "Communication",
-      "Software",
-      "DevOps"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/gotify/default.svg"
@@ -71354,8 +71340,8 @@
     "hex": "F15B2B",
     "categories": [
       "Monitoring",
-      "DevOps",
-      "Analytics"
+      "Analytics",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/grafana-loki/default.svg"
@@ -71469,8 +71455,7 @@
     "hex": "795649",
     "categories": [
       "Productivity",
-      "Software",
-      "Community"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/gramps-web/default.svg"
@@ -71849,9 +71834,9 @@
     ],
     "hex": "F97316",
     "categories": [
+      "Media Server",
       "Media",
-      "Software",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/grimmory/default.svg",
@@ -73663,8 +73648,7 @@
     "hex": "000000",
     "categories": [
       "Dashboard",
-      "Software",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/heimdall/default.svg"
@@ -74248,7 +74232,7 @@
     "hex": "1570EF",
     "categories": [
       "Productivity",
-      "Software"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/heyform/default.svg"
@@ -74730,8 +74714,7 @@
     "hex": "206EFF",
     "categories": [
       "Dashboard",
-      "Software",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/homer/default.svg"
@@ -77404,8 +77387,7 @@
     "hex": "E0ED34",
     "categories": [
       "Security",
-      "DevOps",
-      "Management"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/infisical/default.svg",
@@ -78753,8 +78735,8 @@
     ],
     "hex": "18A058",
     "categories": [
-      "DevTool",
-      "Productivity"
+      "Developer Utilities",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/it-tools/default.svg"
@@ -78947,9 +78929,9 @@
     "aliases": [],
     "hex": "111111",
     "categories": [
+      "Media Server",
       "Media",
-      "DevTool",
-      "Automation"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/jackett/default.svg"
@@ -81766,9 +81748,8 @@
     ],
     "hex": "D40000",
     "categories": [
-      "Productivity",
-      "Management",
-      "Software"
+      "Project Management",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/kanboard/default.svg"
@@ -82857,9 +82838,8 @@
     "aliases": [],
     "hex": "0B8DD4",
     "categories": [
-      "Productivity",
-      "Management",
-      "Software"
+      "Project Management",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/kimai/default.svg"
@@ -83598,9 +83578,9 @@
     "aliases": [],
     "hex": "FFDF47",
     "categories": [
+      "Media Server",
       "Media",
-      "Software",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/komga/default.svg"
@@ -83726,9 +83706,9 @@
     "aliases": [],
     "hex": "2D7BF0",
     "categories": [
+      "Backup",
       "Storage",
-      "DevOps",
-      "Software"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/kopia/default.svg",
@@ -84447,9 +84427,9 @@
     ],
     "hex": "FF7557",
     "categories": [
+      "LLM Tools",
       "AI",
-      "DevTool",
-      "Software"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/label-studio/default.svg",
@@ -85869,9 +85849,10 @@
     ],
     "hex": "0970EF",
     "categories": [
+      "LLM Tools",
       "AI",
-      "Software",
-      "Communication"
+      "Communication",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/librechat/default.svg"
@@ -86042,7 +86023,7 @@
     "categories": [
       "Monitoring",
       "Networking",
-      "DevTool"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/librespeed/default.svg",
@@ -86167,9 +86148,9 @@
     "aliases": [],
     "hex": "009252",
     "categories": [
+      "Media Server",
       "Media",
-      "Automation",
-      "Software"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/lidarr/default.svg"
@@ -86547,9 +86528,8 @@
     ],
     "hex": "5856E0",
     "categories": [
-      "Productivity",
-      "Software",
-      "Management"
+      "Bookmarks & RSS",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/linkding/default.svg"
@@ -87037,9 +87017,9 @@
     ],
     "hex": "306599",
     "categories": [
+      "LLM Tools",
       "AI",
-      "DevTool",
-      "DevOps"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/litellm-proxy/default.svg"
@@ -87189,9 +87169,9 @@
     ],
     "hex": "FF8236",
     "categories": [
+      "LLM Tools",
       "AI",
-      "DevTool",
-      "Software"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/llama-cpp-server/default.svg",
@@ -87321,9 +87301,10 @@
     ],
     "hex": "FFB02E",
     "categories": [
+      "LLM Tools",
       "AI",
-      "Software",
-      "Communication"
+      "Communication",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/lobe-chat/default.svg"
@@ -88021,9 +88002,8 @@
     ],
     "hex": "B480DE",
     "categories": [
-      "DevTool",
-      "Software",
-      "Automation"
+      "Low-Code",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/lowcoder/default.svg"
@@ -88700,9 +88680,9 @@
     ],
     "hex": "7D55EF",
     "categories": [
-      "DevTool",
-      "Automation",
-      "Analytics"
+      "Developer Utilities",
+      "Analytics",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/mage-ai/default.svg",
@@ -89051,8 +89031,9 @@
     "aliases": [],
     "hex": "00B786",
     "categories": [
-      "DevTool",
-      "Communication"
+      "Developer Utilities",
+      "Communication",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/mailpit/default.svg"
@@ -89619,9 +89600,9 @@
     "aliases": [],
     "hex": "1C7361",
     "categories": [
-      "DevTool",
+      "Developer Utilities",
       "AI",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/marimo/default.svg"
@@ -91080,9 +91061,8 @@
     ],
     "hex": "18181B",
     "categories": [
-      "Productivity",
-      "Software",
-      "Management"
+      "Notes & Docs",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/memos/default.svg",
@@ -91696,9 +91676,9 @@
     "aliases": [],
     "hex": "000000",
     "categories": [
+      "Media Server",
       "Media",
-      "Software",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/metube/default.svg",
@@ -93526,9 +93506,9 @@
     ],
     "hex": "88B858",
     "categories": [
-      "Software",
-      "Community",
-      "Hosting"
+      "Gaming",
+      "Hosting",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/minecraft-server/default.svg"
@@ -93614,9 +93594,9 @@
     "aliases": [],
     "hex": "000000",
     "categories": [
-      "Productivity",
-      "Software",
-      "Media"
+      "Bookmarks & RSS",
+      "Media",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/miniflux/default.svg"
@@ -94566,8 +94546,8 @@
     "hex": "41A948",
     "categories": [
       "Database",
-      "DevTool",
-      "Dashboard"
+      "Dashboard",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/mongo-express/default.svg"
@@ -98513,9 +98493,8 @@
     ],
     "hex": "000000",
     "categories": [
-      "DevTool",
-      "Software",
-      "Productivity"
+      "Low-Code",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/nocobase/default.svg",
@@ -100850,8 +100829,8 @@
     "aliases": [],
     "hex": "000000",
     "categories": [
-      "DevTool",
-      "DevOps"
+      "Git & CI",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/onedev/default.svg"
@@ -100976,8 +100955,9 @@
     ],
     "hex": "3B82F6",
     "categories": [
+      "File Sharing",
       "Security",
-      "Software"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/onetimesecret/default.svg"
@@ -102791,9 +102771,8 @@
     ],
     "hex": "F58321",
     "categories": [
-      "Management",
-      "Software",
-      "Productivity"
+      "Helpdesk & CRM",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/orangehrm/default.svg"
@@ -102918,8 +102897,7 @@
     "hex": "000000",
     "categories": [
       "Dashboard",
-      "Software",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/organizr/default.svg"
@@ -103157,9 +103135,8 @@
     ],
     "hex": "EE9136",
     "categories": [
-      "Productivity",
-      "Software",
-      "Management"
+      "Helpdesk & CRM",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/osticket/default.svg"
@@ -103406,9 +103383,10 @@
     "aliases": [],
     "hex": "7A5CF3",
     "categories": [
+      "Media Server",
       "Media",
       "Communication",
-      "Community"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/owncast/default.svg",
@@ -103806,8 +103784,8 @@
     "aliases": [],
     "hex": "000000",
     "categories": [
-      "Software",
-      "Productivity"
+      "File Sharing",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/pairdrop/default.svg",
@@ -104618,7 +104596,7 @@
     "categories": [
       "Finance",
       "Hosting",
-      "Software"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/paymenter/default.svg"
@@ -105384,9 +105362,10 @@
     ],
     "hex": "000000",
     "categories": [
+      "Backup",
       "Database",
-      "DevOps",
-      "Storage"
+      "Storage",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/pg-back-web/default.svg",
@@ -105409,8 +105388,7 @@
     "hex": "336791",
     "categories": [
       "Database",
-      "DevTool",
-      "Management"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/pgadmin/default.svg"
@@ -105694,9 +105672,10 @@
     "aliases": [],
     "hex": "D4B8FF",
     "categories": [
+      "Media Server",
       "Media",
-      "Software",
-      "Storage"
+      "Storage",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/photoprism/default.svg",
@@ -106299,9 +106278,9 @@
     ],
     "hex": "46509E",
     "categories": [
+      "File Sharing",
       "Storage",
-      "Software",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/pingvin-share/default.svg"
@@ -106928,9 +106907,8 @@
     "aliases": [],
     "hex": "3F444B",
     "categories": [
-      "Productivity",
-      "Software",
-      "Management"
+      "Project Management",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/planka/default.svg"
@@ -107469,8 +107447,7 @@
     "hex": "000000",
     "categories": [
       "Communication",
-      "Software",
-      "Automation"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/plunk/default.svg"
@@ -107692,8 +107669,7 @@
     "hex": "1A1A1A",
     "categories": [
       "Security",
-      "Software",
-      "Management"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/pocket-id/default.svg",
@@ -109326,9 +109302,9 @@
     ],
     "hex": "FFAB00",
     "categories": [
+      "File Sharing",
       "Security",
-      "Software",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/privatebin/default.svg",
@@ -109971,9 +109947,9 @@
     "aliases": [],
     "hex": "852E1B",
     "categories": [
+      "Media Server",
       "Media",
-      "Automation",
-      "Software"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/prowlarr/default.svg"
@@ -112273,8 +112249,7 @@
     "hex": "4F46E5",
     "categories": [
       "Productivity",
-      "Software",
-      "Management"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/rallly/default.svg",
@@ -112975,9 +112950,9 @@
     "aliases": [],
     "hex": "187995",
     "categories": [
-      "Productivity",
-      "Software",
-      "Media"
+      "Bookmarks & RSS",
+      "Media",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/readeck/default.svg"
@@ -113408,9 +113383,8 @@
     ],
     "hex": "D54455",
     "categories": [
-      "Software",
-      "Community",
-      "Productivity"
+      "Bookmarks & RSS",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/redlib/default.svg"
@@ -116558,9 +116532,9 @@
     "aliases": [],
     "hex": "000000",
     "categories": [
-      "Productivity",
-      "Software",
-      "Media"
+      "Media Server",
+      "Media",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/ryot/default.svg",
@@ -118007,9 +117981,10 @@
     ],
     "hex": "0F6BD8",
     "categories": [
+      "File Sharing",
       "Storage",
       "Database",
-      "DevOps"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/seaweedfs/default.svg"
@@ -118296,8 +118271,8 @@
     ],
     "hex": "1697F6",
     "categories": [
-      "DevOps",
-      "Automation"
+      "Git & CI",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/semaphore-ui/default.svg"
@@ -118831,9 +118806,10 @@
     ],
     "hex": "FEC866",
     "categories": [
+      "File Sharing",
       "Storage",
       "Networking",
-      "Software"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/sftpgo/default.svg"
@@ -119117,8 +119093,8 @@
     "aliases": [],
     "hex": "F44336",
     "categories": [
-      "Productivity",
-      "Software"
+      "Bookmarks & RSS",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/shiori/default.svg"
@@ -119135,8 +119111,9 @@
     "aliases": [],
     "hex": "4696E5",
     "categories": [
-      "DevTool",
-      "Analytics"
+      "Developer Utilities",
+      "Analytics",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/shlink/default.svg"
@@ -121902,9 +121879,10 @@
     ],
     "hex": "FC8D41",
     "categories": [
+      "LLM Tools",
       "AI",
       "Media",
-      "DevTool"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/speaches/default.svg"
@@ -121997,7 +121975,8 @@
     "categories": [
       "Monitoring",
       "Networking",
-      "Dashboard"
+      "Dashboard",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/speedtest-tracker/default.svg"
@@ -123042,8 +123021,8 @@
     "hex": "DB2D54",
     "categories": [
       "Communication",
-      "Software",
-      "Security"
+      "Security",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/stalwart-mail-server/default.svg",
@@ -123404,8 +123383,7 @@
     "hex": "66CC5D",
     "categories": [
       "Monitoring",
-      "Software",
-      "DevOps"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/statusnook/default.svg"
@@ -124900,7 +124878,7 @@
     "hex": "0F172A",
     "categories": [
       "Finance",
-      "Management"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/sure/default.svg"
@@ -126042,9 +126020,8 @@
     ],
     "hex": "FF6F00",
     "categories": [
-      "Productivity",
-      "Software",
-      "Management"
+      "Food",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/tandoor-recipes/default.svg",
@@ -126285,9 +126262,10 @@
     "aliases": [],
     "hex": "E5A00D",
     "categories": [
+      "Media Server",
       "Monitoring",
       "Media",
-      "Analytics"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/tautulli/default.svg",
@@ -126374,9 +126352,9 @@
     "aliases": [],
     "hex": "143F82",
     "categories": [
+      "Media Server",
       "Media",
-      "Automation",
-      "DevOps"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/tdarr/default.svg"
@@ -126414,9 +126392,9 @@
     "aliases": [],
     "hex": "000000",
     "categories": [
-      "Productivity",
+      "Low-Code",
       "Database",
-      "Software"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/teable/default.svg",
@@ -127073,8 +127051,9 @@
     "aliases": [],
     "hex": "141513",
     "categories": [
-      "DevTool",
-      "Networking"
+      "Developer Utilities",
+      "Networking",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/termix/default.svg"
@@ -128340,7 +128319,8 @@
     "categories": [
       "Analytics",
       "Monitoring",
-      "Dashboard"
+      "Dashboard",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/tianji/default.svg",
@@ -129920,8 +129900,8 @@
     ],
     "hex": "F4B400",
     "categories": [
-      "DevTool",
-      "Database"
+      "Database",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/trailbase/default.svg"
@@ -132510,8 +132490,8 @@
     ],
     "hex": "1A4049",
     "categories": [
-      "DevTool",
-      "DevOps"
+      "DevOps",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/unleash/default.svg",
@@ -134175,9 +134155,9 @@
     ],
     "hex": "000000",
     "categories": [
-      "Productivity",
-      "Software",
-      "Media"
+      "Developer Utilities",
+      "Media",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/vert/default.svg"
@@ -136159,9 +136139,8 @@
     "aliases": [],
     "hex": "2F855A",
     "categories": [
-      "DevTool",
       "Analytics",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/wakapi/default.svg"
@@ -136307,8 +136286,7 @@
     "hex": "2858C5",
     "categories": [
       "Finance",
-      "Management",
-      "Productivity"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/wallos/default.svg"
@@ -136779,9 +136757,10 @@
     ],
     "hex": "D6FB41",
     "categories": [
+      "Developer Utilities",
       "Security",
-      "DevTool",
-      "Analytics"
+      "Analytics",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/web-check/default.svg",
@@ -137329,8 +137308,8 @@
     "aliases": [],
     "hex": "007C8F",
     "categories": [
-      "Productivity",
-      "Management"
+      "Project Management",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/wekan/default.svg"
@@ -137798,9 +137777,10 @@
     ],
     "hex": "000000",
     "categories": [
+      "Privacy",
       "Security",
-      "Software",
-      "Networking"
+      "Networking",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/whoogle-search/default.svg",
@@ -138158,8 +138138,7 @@
     "hex": "3B82F6",
     "categories": [
       "Automation",
-      "DevTool",
-      "Software"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/windmill/default.svg"
@@ -140081,9 +140060,9 @@
     "aliases": [],
     "hex": "262A2D",
     "categories": [
+      "Media Server",
       "Media",
-      "Productivity",
-      "Software"
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/yamtrack/default.svg",
@@ -141692,9 +141671,10 @@
     ],
     "hex": "A78BFA",
     "categories": [
+      "File Sharing",
       "Storage",
-      "Software",
-      "Media"
+      "Media",
+      "Self-Hosted"
     ],
     "variants": {
       "default": "/icons/zipline/default.svg"
