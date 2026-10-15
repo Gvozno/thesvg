@@ -100719,7 +100719,7 @@
     "slug": "ollama",
     "title": "Ollama",
     "aliases": [],
-    "hex": "fff",
+    "hex": "000000",
     "categories": [
       "AI",
       "Software"
@@ -110882,7 +110882,7 @@
     "slug": "qdrant",
     "title": "Qdrant",
     "aliases": [],
-    "hex": "000000",
+    "hex": "DC244C",
     "categories": [
       "Database",
       "AI"
