@@ -142,8 +142,17 @@ export function getCollectionCount(collection: Collection): number {
   return icons.filter((i) => i.collection === collection).length;
 }
 
+/**
+ * Rounds a total down to the nearest hundred so copy like "7,600+ icons"
+ * stays true as the library grows and never needs a hand edit per batch.
+ * Callers append the "+".
+ */
+export function roundDownToHundred(n: number): number {
+  return Math.floor(n / 100) * 100;
+}
+
 export function getFormattedIconCount(): string {
-  return icons.length.toLocaleString("en-US");
+  return roundDownToHundred(icons.length).toLocaleString("en-US");
 }
 
 /**
